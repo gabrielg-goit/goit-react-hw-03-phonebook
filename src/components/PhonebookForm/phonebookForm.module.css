@@ -1,0 +1,28 @@
+.title {
+  color: #ef1db0ab;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  color: #ef1db0ab;
+}
+button {
+  margin: 5px 10px;
+  background-color: #edbddeab;
+  color: white;
+  border-radius: 7px;
+  border-color: #f048beab;
+}
+button:hover {
+  background-color: white;
+  color: #f048beab;
+  border-color: #f048beab;
+}
+.form {
+  width: 300px;
+  padding: 20px;
+  display: block;
+  border: 1px solid #f048beab;
+}

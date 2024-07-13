@@ -1,28 +1,29 @@
 .title {
-  color: #ef1db0ab;
+  color: hwb(253 9% 8%);
 }
 
 .label {
   display: flex;
   flex-direction: column;
   max-width: 200px;
-  color: #ef1db0ab;
+  color: hwb(253 9% 8%);
 }
 button {
   margin: 5px 10px;
-  background-color: #edbddeab;
+  background-color: #6246edab;
   color: white;
   border-radius: 7px;
-  border-color: #f048beab;
+  border-color: #04c8f4ab;
 }
 button:hover {
   background-color: white;
-  color: #f048beab;
-  border-color: #f048beab;
+  color: #03596cab;
+  border-color: #03596cab;
 }
+
 .form {
   width: 300px;
   padding: 20px;
   display: block;
-  border: 1px solid #f048beab;
+  border: 1px solid #6c29e1ab;
 }
